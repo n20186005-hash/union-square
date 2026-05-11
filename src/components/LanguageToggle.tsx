@@ -34,16 +34,20 @@ export default function LanguageToggle() {
 
     // Remove the current locale from the pathname
     let newPath = pathname;
-    if (pathname.startsWith(`/${locale}/`)) {
-      newPath = pathname.replace(`/${locale}/`, '/');
-    } else if (pathname === `/${locale}`) {
-      newPath = '/';
+    
+    // Check if the current pathname starts with any of our configured locales
+    const hasLocalePrefix = routing.locales.some(l => 
+      pathname === `/${l}` || pathname.startsWith(`/${l}/`)
+    );
+
+    if (hasLocalePrefix) {
+      // Remove the current locale prefix
+      const currentLocalePrefix = pathname.split('/')[1];
+      newPath = pathname.replace(`/${currentLocalePrefix}`, '');
     }
 
-    // Add the new locale prefix if it's not the default locale
-    if (next !== routing.defaultLocale) {
-      newPath = `/${next}${newPath === '/' ? '' : newPath}`;
-    }
+    // Since we're using mode: 'always', we must always add the target locale
+    newPath = `/${next}${newPath === '/' ? '' : newPath}`;
 
     // Force a hard navigation to ensure Next.js handles the language change properly
     window.location.href = newPath;
