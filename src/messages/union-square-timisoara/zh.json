@@ -265,9 +265,10 @@
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与资讯",
     "officialLinks": {
-      "council": "罗马尼亚旅游局",
-      "tourism": "蒂米什瓦拉旅游",
-      "england": "Timișoara Tourism"
+      "timisoaraTourism": "蒂米什瓦拉旅游",
+      "romaniaTourism": "罗马尼亚旅游",
+      "romaniaRailways": "罗马尼亚铁路官网",
+      "cimec": "CIMEC"
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
   },

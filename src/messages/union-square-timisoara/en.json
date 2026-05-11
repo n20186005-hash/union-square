@@ -265,9 +265,10 @@
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "council": "Romanian Tourism Board",
-      "tourism": "Timișoara Tourism",
-      "england": "Timișoara Tourism"
+      "timisoaraTourism": "Timișoara Tourism",
+      "romaniaTourism": "Romania Tourism",
+      "romaniaRailways": "Romanian Railways (CFR)",
+      "cimec": "CIMEC"
     },
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
   },
