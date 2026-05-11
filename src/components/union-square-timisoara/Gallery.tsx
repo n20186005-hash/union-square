@@ -8,7 +8,7 @@ interface GalleryProps {
   mapsLink?: string;
 }
 
-export default function Gallery({ photos, mapsLink = 'https://maps.app.goo.gl/4X7Z8L9K2J1H0G5' }: GalleryProps) {
+export default function Gallery({ photos, mapsLink = 'https://maps.app.goo.gl/8temYQszaYYQ9LJH6' }: GalleryProps) {
   const t = useTranslations('gallery');
   const messages = useMessages() as any;
   

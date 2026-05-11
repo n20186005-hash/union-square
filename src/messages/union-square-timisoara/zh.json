@@ -13,8 +13,8 @@
   "hero": {
     "title": "联合广场",
     "subtitle": "罗马尼亚蒂米什瓦拉巴洛克之心 · 历史地标",
-    "rating": "4.8",
-    "reviewCount": "15,000",
+    "rating": "4.8(15000)",
+    "reviewCount": "15,000 条真实评价",
     "hours": "全天开放",
     "openMaps": "查看位置"
   },
@@ -76,7 +76,7 @@
     "city": "城市",
     "cityValue": "蒂米什瓦拉（Timișoara），蒂米什县",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.8/5 (15,000)",
+    "googleRatingValue": "4.8（15000 条真实评价）",
     "phone": "电话",
     "phoneValue": "+40-256-408-300",
     "address": "地址",

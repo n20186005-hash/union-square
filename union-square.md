@@ -5,7 +5,7 @@
 评价：4.8(10,620)
 地址：Piața Unirii 13, 300085 Timișoara, Romania
 
-谷歌地图位置：https://maps.app.goo.gl/x3CeqYD1AZAkXThF7
+谷歌地图位置：https://maps.app.goo.gl/8temYQszaYYQ9LJH6
 
 目标风格完全参考 montdesarts.org
 
@@ -52,7 +52,7 @@
 
 【联系电话】+40-256-408-300
 
-【谷歌地图】https://maps.app.goo.gl/4X7Z8L9K2J1H0G5
+【谷歌地图】https://maps.app.goo.gl/8temYQszaYYQ9LJH6
 
 【综合评分】4.8（15000 条真实评价）
 

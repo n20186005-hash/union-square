@@ -23,7 +23,7 @@ function Stars({ count }: { count: number }) {
   );
 }
 
-export default function Reviews({ mapsLink = 'https://maps.app.goo.gl/4X7Z8L9K2J1H0G5' }: ReviewsProps) {
+export default function Reviews({ mapsLink = 'https://maps.app.goo.gl/8temYQszaYYQ9LJH6' }: ReviewsProps) {
   const t = useTranslations('reviews');
   const messages = useMessages() as any;
   const items = (messages?.reviews?.items || []) as Array<{

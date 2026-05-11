@@ -13,8 +13,8 @@
   "hero": {
     "title": "Union Square",
     "subtitle": "Baroque Heart of Timișoara, Romania · Historic Landmark",
-    "rating": "4.8",
-    "reviewCount": "15,000",
+    "rating": "4.8(15000)",
+    "reviewCount": "15,000 real reviews",
     "hours": "Open 24 Hours",
     "openMaps": "View Location"
   },
@@ -76,7 +76,7 @@
     "city": "City",
     "cityValue": "Timișoara, Timiș County",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8/5 (15,000)",
+    "googleRatingValue": "4.8 (15,000 real reviews)",
     "phone": "Phone",
     "phoneValue": "+40-256-408-300",
     "address": "Address",

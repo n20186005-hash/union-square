@@ -5,7 +5,7 @@ interface HeroProps {
   mapsLink?: string;
 }
 
-export default function Hero({ heroImage = '/gallery/images (6).jpg', mapsLink = 'https://maps.app.goo.gl/4X7Z8L9K2J1H0G5' }: HeroProps) {
+export default function Hero({ heroImage = '/gallery/images (6).jpg', mapsLink = 'https://maps.app.goo.gl/8temYQszaYYQ9LJH6' }: HeroProps) {
   const t = useTranslations('hero');
 
   return (

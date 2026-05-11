@@ -13,7 +13,6 @@ import HotelsSection from '@/components/HotelsSection';
 import Gallery from '@/components/union-square-timisoara/Gallery';
 import Reviews from '@/components/union-square-timisoara/Reviews';
 import MapEmbed from '@/components/union-square-timisoara/MapEmbed';
-import Recommendations from '@/components/Recommendations';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -41,7 +40,6 @@ export default async function HomePage({
         <Gallery />
         <Reviews />
         <MapEmbed />
-        <Recommendations />
       </main>
       <Footer />
     </>

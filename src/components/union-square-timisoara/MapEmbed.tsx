@@ -5,7 +5,7 @@ interface MapEmbedProps {
   mapsLink?: string;
 }
 
-export default function MapEmbed({ embedSrc, mapsLink = 'https://maps.app.goo.gl/4X7Z8L9K2J1H0G5' }: MapEmbedProps) {
+export default function MapEmbed({ embedSrc, mapsLink = 'https://maps.app.goo.gl/8temYQszaYYQ9LJH6' }: MapEmbedProps) {
   const t = useTranslations('mapSection');
   
   const defaultEmbedSrc = embedSrc || "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24880.4!2d21.2276!3d45.7561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47456b20f2a6e1c3%3A0x5c6f8f8f8f8f8f8f!2sPia%C8%9Ba%20Unirii!5e0!3m2!1sen!2sro!4v1700000000000!5m2!1sen!2sro";
