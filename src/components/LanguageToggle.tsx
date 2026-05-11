@@ -30,35 +30,23 @@ export default function LanguageToggle() {
   function switchLocale(next: Locale) {
     setOpen(false);
     
-    // 如果当前已经在目标语言，不执行任何操作
     if (next === locale) return;
 
-    // 因为配置了 as-needed 模式，所以默认语言（zh）不会带前缀
-    // 对于英文（en），URL 会是 /en/xxx
-    
-    // 清除可能存在的当前语言前缀
-    let cleanPath = pathname;
-    for (const loc of routing.locales) {
-      if (cleanPath === `/${loc}`) {
-        cleanPath = '/';
-        break;
-      }
-      if (cleanPath.startsWith(`/${loc}/`)) {
-        cleanPath = cleanPath.substring(loc.length + 1);
-        break;
-      }
+    // Remove the current locale from the pathname
+    let newPath = pathname;
+    if (pathname.startsWith(`/${locale}/`)) {
+      newPath = pathname.replace(`/${locale}/`, '/');
+    } else if (pathname === `/${locale}`) {
+      newPath = '/';
     }
-    
-    // 如果没有剩下路径，确保是一个 '/'
-    if (!cleanPath) cleanPath = '/';
 
-    // 如果目标语言是默认语言，直接跳转即可
-    if (next === routing.defaultLocale) {
-      router.push(cleanPath);
-    } else {
-      // 否则加上目标语言前缀
-      router.push(`/${next}${cleanPath === '/' ? '' : cleanPath}`);
+    // Add the new locale prefix if it's not the default locale
+    if (next !== routing.defaultLocale) {
+      newPath = `/${next}${newPath === '/' ? '' : newPath}`;
     }
+
+    // Force a hard navigation to ensure Next.js handles the language change properly
+    window.location.href = newPath;
   }
 
   return (
