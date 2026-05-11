@@ -15,9 +15,9 @@ export const routing = defineRouting({
       zh: '/letnapark',
       en: '/letnapark',
     },
-    '/sigismunds-column': {
-      zh: '/sigismunds-column',
-      en: '/sigismunds-column',
+    '/union-square-timisoara': {
+      zh: '/union-square-timisoara',
+      en: '/union-square-timisoara',
     },
   },
 });

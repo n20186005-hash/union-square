@@ -33,21 +33,19 @@ export default function LanguageToggle() {
     // 如果当前已经在目标语言，不执行任何操作
     if (next === locale) return;
 
-    const segments = pathname.split('/').filter(Boolean);
+    let path = pathname;
     
-    // Remove current locale prefix if present
-    if (routing.locales.includes(segments[0] as Locale)) {
-      segments.shift();
+    // 专门处理子路由的特殊情况，保留当前路径
+    // 如果包含语言前缀，则替换
+    if (path.startsWith(`/${locale}`)) {
+      path = path.replace(`/${locale}`, '');
     }
-    
-    // Construct new path
-    const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '/';
-    
-    // Navigate
+
+    // 针对不同语言环境生成新路径
     if (next === routing.defaultLocale) {
-      router.push(pathWithoutLocale);
+      router.push(path || '/');
     } else {
-      router.push(`/${next}${pathWithoutLocale === '/' ? '' : pathWithoutLocale}`);
+      router.push(`/${next}${path === '/' ? '' : path}`);
     }
   }
 
