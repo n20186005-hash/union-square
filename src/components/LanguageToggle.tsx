@@ -33,19 +33,31 @@ export default function LanguageToggle() {
     // 如果当前已经在目标语言，不执行任何操作
     if (next === locale) return;
 
-    let path = pathname;
+    // 因为配置了 as-needed 模式，所以默认语言（zh）不会带前缀
+    // 对于英文（en），URL 会是 /en/xxx
     
-    // 专门处理子路由的特殊情况，保留当前路径
-    // 如果包含语言前缀，则替换
-    if (path.startsWith(`/${locale}`)) {
-      path = path.replace(`/${locale}`, '');
+    // 清除可能存在的当前语言前缀
+    let cleanPath = pathname;
+    for (const loc of routing.locales) {
+      if (cleanPath === `/${loc}`) {
+        cleanPath = '/';
+        break;
+      }
+      if (cleanPath.startsWith(`/${loc}/`)) {
+        cleanPath = cleanPath.substring(loc.length + 1);
+        break;
+      }
     }
+    
+    // 如果没有剩下路径，确保是一个 '/'
+    if (!cleanPath) cleanPath = '/';
 
-    // 针对不同语言环境生成新路径
+    // 如果目标语言是默认语言，直接跳转即可
     if (next === routing.defaultLocale) {
-      router.push(path || '/');
+      router.push(cleanPath);
     } else {
-      router.push(`/${next}${path === '/' ? '' : path}`);
+      // 否则加上目标语言前缀
+      router.push(`/${next}${cleanPath === '/' ? '' : cleanPath}`);
     }
   }
 
