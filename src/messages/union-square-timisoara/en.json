@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "Union Square Piața Unirii | Baroque Heart & Historic Landmark of Timișoara, Romania - Best European Attractions",
+    "description": "Complete guide to exploring Union Square in Timișoara, Romania. Learn about opening hours, transportation, ticket info, architectural features and stunning photos. Romania's most iconic Baroque architecture complex and 'Little Vienna' charm."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Union Square",
+    "subtitle": "Baroque Heart of Timișoara, Romania · Historic Landmark",
+    "rating": "4.8",
+    "reviewCount": "15,000",
+    "hours": "Open 24 Hours",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Union Square",
+    "description": "Walking into Union Square, you are instantly enveloped by rich Baroque charm and historical depth. This square, located in the heart of Timișoara, is like an open-air architecture museum where every step reveals colorful Baroque buildings, solemn twin churches, and exquisite plague monuments, with every detail inscribed with the glory of the Habsburg dynasty and the honor of national unity.\n\nI visited on an autumn evening, the sunset gilding the building facades with warm golden light. The pink and yellow exterior walls glistened under the sun, with intricate reliefs clearly visible. The Holy Trinity Column stands tall and dignified, its statue particularly solemn in the twilight, commemorating those who perished in the plague while guarding the city's historical memory.\n\nThe square is filled with leisurely crowds - locals chatting at outdoor cafés, tourists strolling to admire architectural details and street art, children playing on the lawn. The twin churches face each other across the square, the imposing dome of the Catholic Cathedral and the refined facade of the Serbian Orthodox Cathedral complementing each other, telling the story of multicultural harmony.\n\nThere is no rush here, only the calm of historical沉淀 and the vibrancy of urban life. When night falls and lights come on, building outlines are gently sketched, the square transforms into a romantic Eastern European nightlife stage, where ancient Baroque perfectly blends with modern烟火气, healing and breathtaking.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Recommended to visit on weekday mornings or evenings for fewer crowds and softer lighting, perfect for strolling and photography",
+        "Surrounding shops and cafés are open until evening, plan to enjoy the nighttime lighting after sunset",
+        "The twin churches side by side are a must-see, get close to appreciate the different architectural styles",
+        "The cobblestone surface is uneven, wear comfortable flat shoes for easy walking"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Attraction Highlights",
+      "items": [
+        "Timișoara's oldest square, established in 1552",
+        "Core representative of Baroque architecture in Transylvania",
+        "Famous Eastern European photography spot, Baroque architecture and sunset views are highly attractive",
+        "Century-old landmark witnessing the historical changes of Ottoman, Habsburg, and Romanian periods"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Union Square",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Centuries of Historical Changes",
+        "content": "Before 1552, the area of Union Square was empty castle grounds. After the Turkish siege in 1552, it was named Losonczy Square after the fallen Count Losonczy.\n\nDuring the Habsburg Dynasty rule in the 18th century, the square entered its golden development period. The Catholic Cathedral was built from 1736-1774, the Serbian Orthodox Cathedral from 1744-1748, and the Holy Trinity Column was erected in 1750, establishing the Baroque architectural pattern.\n\nOn August 3, 1919, Romanian troops entered Timișoara, establishing Romanian rule. The Banat region officially unified with Romania, and the square was renamed Union Square.\n\nAfter the 20th century, surrounding buildings underwent renovations while preserving their Baroque original appearance, adding cultural facilities like the Art Museum and cafés. Today it has become Timișoara's most representative historical and cultural landmark and the core of \"Little Vienna\" charm."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "An open urban square covering approximately 0.9 hectares, with the Holy Trinity Column (Plague Column) standing at its center, commemorating the plague of 1738-1740. The square is surrounded by Baroque-style buildings: the Catholic Cathedral on the east (built 1736-1774), the Serbian Orthodox Cathedral on the west (built 1744-1748), Baroque Palace (now Art Museum) on the south, and 18th-century classical buildings on the north, with soft colors and intricate reliefs.\n\nAustrian Baroque style, blending Habsburg court aesthetics with Transylvanian local stone craftsmanship. Building facades feature soft tones of pink, yellow, and green, decorated with elaborate reliefs and domes, with smooth and elegant lines. The solemn central monument complements the grand domes of surrounding churches, presenting the elegant temperament of \"Little Vienna\" as a whole."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Value",
+        "content": "Timișoara's core cultural and social venue, hosting important events such as outdoor concerts, art exhibitions, festival celebrations, and Christmas markets. The twin churches symbolizing harmonious coexistence of diverse faiths represent the spirit of Romanian national unity. It is also a famous Eastern European photography destination, with the Baroque architectural ensemble and sunset views being extremely attractive.\n\nThe twin churches face each other across the square, the imposing dome of the Catholic Cathedral and the refined facade of the Serbian Orthodox Cathedral complementing each other, telling the story of multicultural harmony. This square is not just a historical landmark but a symbol of urban spirit."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "Enter the square in the evening from the south pathway entrance. Walk slowly along the cobblestones, check in the Holy Trinity Column, twin churches, and Baroque Palace, stroll through surrounding streets, and finally rest at a square café. The entire route is relaxing and leisurely - pure sightseeing takes about 1 hour, while a deep experience of architecture and culture can extend to half a day.\n\nWhen night falls and lights come on, building outlines are gently sketched, the square transforms into a romantic Eastern European nightlife stage, where ancient Baroque perfectly blends with modern vitality, healing and breathtaking."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Piața Unirii",
+    "type": "Attraction Type",
+    "typeValue": "Urban Historic Square, Baroque Architecture Complex, Cultural Landmark, Social Hub",
+    "country": "Country",
+    "countryValue": "Romania",
+    "city": "City",
+    "cityValue": "Timișoara",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Piața Unirii, Timișoara 300085, Romania"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Union Square Public Area",
+    "outdoorTime": "Open all year, 24 hours, no access restrictions on public areas",
+    "lighthouse": "Surrounding Churches, Art Museum and other venues",
+    "summer": "Regular Hours",
+    "summerTime": "Monday-Sunday: 08:00-23:00",
+    "winter": "Closed Days",
+    "winterTime": "Most venues closed on Mondays",
+    "warning": "Visiting Tips",
+    "warningTime": "Recommended to visit on weekday mornings or evenings for fewer crowds and softer lighting, perfect for strolling and photography",
+    "tip": "Natural light is abundant, rich light and shadow layers on sunny days, suitable for landscape and portrait photography"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Union Square Public Area",
+    "outdoorPrice": "Free access to entire square, no entrance fees",
+    "lighthouse": "Surrounding Churches, Art Museum and other venues",
+    "adults": "Adults",
+    "adultsPrice": "Individual venue pricing",
+    "students": "Students",
+    "studentsPrice": "Student discounts available",
+    "children": "Children",
+    "childrenPrice": "Free or discounted",
+    "card": "Timișoara City Pass",
+    "cardPrice": "Can offset some venue fees, suitable for multi-attraction travel"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From Timișoara International Airport",
+    "airportDesc": "Take the airport express bus to the city center, 10-minute walk to the square entrance, approximately 25 minutes total. Airport ride-hailing available for direct access, suitable for travelers with luggage or groups.",
+    "selfDrive": "From Timișoara Central Railway Station/Bus Station",
+    "selfDriveDesc": "15-minute walk to surrounding streets of the square, frequent public transport with convenient connections.",
+    "bus": "From Old Town Attractions",
+    "busDesc": "Walking distance from Victory Square, Freedom Square, National Opera and other Old Town attractions. Mountain trails are well-connected, suitable for hiking between multiple sites.",
+    "intercity": "Tram",
+    "intercityDesc": "Tram stops nearby (Lines 1/2/4), suitable for short-distance travel. The surrounding cobblestone roads are relatively smooth, comfortable for cycling.",
+    "cycling": "Public Transport Tips",
+    "cyclingDesc": "Purchase Timișoara public transport day pass for unlimited bus and tram rides throughout the city, efficient for visiting multiple attractions.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Public transport around the square is convenient, visiting during off-peak hours on weekdays provides a better experience."
+  },
+  "route": {
+    "title": "Visiting Route",
+    "overview": "Recommended to enter in the evening, from the south pathway entrance. Walk slowly along the cobblestones, check in the Holy Trinity Column, twin churches, and Baroque Palace, stroll through surrounding streets, and finally rest at a square café. The entire route is relaxing - pure sightseeing about 1 hour, deep cultural experience can extend to half a day.",
+    "steps": [
+      "Arrive at nearby public transport station, walk into Union Square south pathway entrance",
+      "Face the grand Holy Trinity Column, admire Baroque carving details and historical inscriptions",
+      "Walk slowly along cobblestones, enjoy the lawn, vintage street lamps, and colorful Baroque buildings",
+      "Head to the east side, closely admire the Catholic Cathedral dome and facade reliefs",
+      "Stroll to the west side, visit the Serbian Orthodox Cathedral's exquisite exterior and religious art details",
+      "Go to the south side, visit the Baroque Palace (Art Museum) architecture and collection highlights",
+      "Rest at the square's outdoor café, taste Romanian coffee, experience Eastern European slow life",
+      "Leave from the north exit, connecting to nearby Victory Square, National Opera and other attractions"
+    ],
+    "supplements": [
+      "The square has cobblestone surfaces, uneven terrain, wear comfortable flat shoes",
+      "Strong sunlight in summer, take sun protection; windy in winter, dress warmly",
+      "Protect historical buildings and public facilities, climbing monuments and carving walls is prohibited",
+      "The square maintains an elegant and peaceful atmosphere, keep voices low and respect locals' leisure environment",
+      "Outdoor concerts, art exhibitions, and festival events are occasionally held in summer"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Central Monument of the Square",
+        "desc": "Wide-angle shot of the Holy Trinity Column and twin churches, grand and stunning"
+      },
+      {
+        "name": "In Front of Catholic Cathedral",
+        "desc": "With the yellow cathedral as background, lawn and vintage street lamps as foreground, full Eastern European charm"
+      },
+      {
+        "name": "Baroque Palace Facade",
+        "desc": "Close-up of elaborate reliefs and colorful exteriors, Baroque details at maximum quality"
+      },
+      {
+        "name": "Square Circular Pathway",
+        "desc": "Strong sense of depth, cobblestones, vintage lamps, and colorful buildings create unique compositions"
+      },
+      {
+        "name": "Sunset Viewing Point",
+        "desc": "Capture the square's warm golden contours and building reflections at sunset, healing and beautiful"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Natural light is abundant, rich light and shadow layers on sunny days, suitable for landscape and portrait photography. Drone flying is prohibited in all areas, comply with local cultural heritage protection regulations. Politely ask before photographing locals and street performers. Peak tourist season (summer, weekends) brings more visitors; for clean shots, visit on weekday mornings."
+  },
+  "hotels": {
+    "title": "Accommodation Suggestions",
+    "hotels": [
+      {
+        "name": "Upscale yet Affordable",
+        "desc": "Retro Baroque hotels within walking distance of the square, converted from century-old buildings, windows overlooking the square and twin churches, elegant and livable",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Design Choice",
+        "desc": "Modern minimalist accommodation near the Bega River, river views, walking distance to the square and Old Town attractions",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Unique Experience",
+        "desc": "Transylvanian retro guesthouse in Old Town alleys, rich Eastern European mountain town atmosphere, immersive local experience",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Budget Choice",
+        "desc": "High-value accommodation near Timișoara Central Railway Station, convenient public transport, short ride to the square",
+        "price": "Price varies by season"
+      }
+    ],
+    "supplements": "Accommodation Notes",
+    "supplementsContent": "Timișoara's urban security is stable, daytime sightseeing is safe and comfortable, avoid quiet alleys late at night. Accommodation prices increase during peak season (summer, weekends), book in advance. Prioritize accommodation between the square and Old Town, walking distance covers Union Square, Victory Square, Freedom Square, National Opera and other core attractions, saving transportation time."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Union Square and Timișoara Baroque Architecture",
+    "captions": [
+      "Union Square Panorama",
+      "Holy Trinity Column",
+      "Catholic Cathedral",
+      "Serbian Orthodox Cathedral",
+      "Baroque Palace Architecture",
+      "Square Night Lighting",
+      "Baroque Building Facades",
+      "Square at Twilight"
+    ],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed through Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Traveler Li",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Timișoara's most impressive square! The Baroque architecture is beautiful, the twin churches face each other across the square, twilight lighting is absolutely stunning. Highly recommend visiting in the evening!"
+      },
+      {
+        "name": "History Enthusiast Mark",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "After understanding this square's history, I gained a deeper appreciation for Timișoara. Witnessing the city's transformation from Ottoman to Habsburg to Romanian rule, a very meaningful attraction."
+      },
+      {
+        "name": "Photography Enthusiast Anna",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "Photography paradise! The Baroque architecture and sunset are perfect for photos. The Holy Trinity Column is particularly solemn at sunset, highly recommended!"
+      },
+      {
+        "name": "Backpacker Kevin",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "Highlight of my Romania trip! Standing in the center of the square feeling the weight of history, the surrounding architecture has wonderful atmosphere. Recommend visiting in the evening for softer light."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Transportation Guide",
+    "subtitle": "Piața Unirii, Timișoara 300085, Romania",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Union Square Independent Tourism Research Association · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Romanian Tourism Board",
+      "tourism": "Timișoara Tourism",
+      "england": "Timișoara Tourism"
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We typically do not proactively collect personally identifiable information from users. Any information you provide through contact forms or email will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Information Use",
+        "content": "Information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking Technologies",
+        "content": "We use cookies and similar tracking technologies to track activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We strive to use commercially acceptable means to protect your personal data, but no internet transmission method or electronic storage method is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you do not agree to any part of these terms, then you may not access the service."
+      },
+      {
+        "heading": "2. Service Use",
+        "content": "This website is an independent third-party travel information project. Information provided is for general reference only. You agree to use this website responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website (including text, images, and logos) is the property of the website owner (unless otherwise stated). Unauthorized use, copying, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We are not responsible for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this website or any information contained therein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always Enabled"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with our website."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Settings",
+    "saved": "Settings saved!"
+  },
+  "officialManagement": {
+    "title": "About Union Square",
+    "text": "Union Square is managed and maintained by the Timișoara Municipal Government, and is one of Romania's most important historical and cultural landmarks.\n\nAs Romania's most representative Baroque architectural complex, Union Square has witnessed centuries of urban changes and the history of national unity. Today, the square is open to the public for free, making it an excellent destination for exploring Timișoara's history and Baroque charm, as well as an important window for global tourists to experience Romanian cultural appeal."
+  },
+  "recommendations": {
+    "title": "Explore More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Victory Square", "url": "https://timisoara tourism"},
+      {"name": "National Opera", "url": "https://timisoara tourism"},
+      {"name": "Freedom Square", "url": "https://timisoara tourism"},
+      {"name": "Bega Riverbank", "url": "https://timisoara tourism"}
+    ],
+    "tours": [
+      {"name": "Timișoara Old Town Deep Tour", "url": "https://timisoara tourism"},
+      {"name": "Baroque Architecture Tour", "url": "https://timisoara tourism"},
+      {"name": "History & Culture Exploration", "url": "https://timisoara tourism"},
+      {"name": "Eastern European Food Tour", "url": "https://timisoara tourism"}
+    ]
+  }
+}
