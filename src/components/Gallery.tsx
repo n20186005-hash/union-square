@@ -4,18 +4,22 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: '齐格蒙塔圆柱全景' },
-  { src: '/gallery/images (1).jpg', alt: '城堡广场全貌' },
-  { src: '/gallery/images (1).jpg', alt: '青铜雕像细节' },
-  { src: '/gallery/images (1).jpg', alt: '华沙老城街景' },
-  { src: '/gallery/images (1).jpg', alt: '皇家宫殿外立面' },
-  { src: '/gallery/images (1).jpg', alt: '老城复古建筑群' },
-  { src: '/gallery/images (1).jpg', alt: '广场黄昏时分' },
-  { src: '/gallery/images (1).jpg', alt: '石柱雕刻细节' },
-  { src: '/gallery/images (1).jpg', alt: '齐格蒙塔圆柱' },
-  { src: '/gallery/images (1).jpg', alt: '华沙老城' },
-  { src: '/gallery/images (1).jpg', alt: '城堡广场风光' },
-  { src: '/gallery/images (1).jpg', alt: '圆柱与王宫' },
+  { src: '/gallery/images (1).jpg', alt: '联合广场全景' },
+  { src: '/gallery/images (2).jpg', alt: '圣三一纪念碑' },
+  { src: '/gallery/images (3).jpg', alt: '罗马天主教大教堂' },
+  { src: '/gallery/images (4).jpg', alt: '塞尔维亚东正教大教堂' },
+  { src: '/gallery/images (5).jpg', alt: '巴洛克宫建筑' },
+  { src: '/gallery/images (6).jpg', alt: '广场夜景灯光' },
+  { src: '/gallery/images (7).jpg', alt: '巴洛克建筑立面' },
+  { src: '/gallery/images (8).jpg', alt: '广场黄昏时分' },
+  { src: '/gallery/images (9).jpg', alt: '广场中央纪念碑' },
+  { src: '/gallery/images (10).jpg', alt: '天主教大教堂前' },
+  { src: '/gallery/images (11).jpg', alt: '巴洛克宫立面' },
+  { src: '/gallery/images (12).jpg', alt: '广场环形步道' },
+  { src: '/gallery/images (13).jpg', alt: '日落观景台' },
+  { src: '/gallery/images (14).jpg', alt: '广场草坪与路灯' },
+  { src: '/gallery/images (15).jpg', alt: '双教堂远景' },
+  { src: '/gallery/images (16).jpg', alt: '广场全景黄昏' },
 ];
 
 export default function Gallery() {
@@ -49,7 +53,7 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {photos.slice(0, 8).map((photo, i) => (
+              {photos.map((photo, i) => (
                 <div
                   key={i}
                   className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
@@ -95,7 +99,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/Noix5GUzyEzCNJPb8"
+                href="https://maps.app.goo.gl/4X7Z8L9K2J1H0G5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

@@ -74,9 +74,11 @@
     "country": "Country",
     "countryValue": "Romania",
     "city": "City",
-    "cityValue": "Timișoara",
+    "cityValue": "Timișoara, Timiș County",
     "googleRating": "Google Rating",
+    "googleRatingValue": "4.8/5 (15,000)",
     "phone": "Phone",
+    "phoneValue": "+40-256-408-300",
     "address": "Address",
     "addressValue": "Piața Unirii, Timișoara 300085, Romania"
   },
@@ -208,7 +210,15 @@
       "Baroque Palace Architecture",
       "Square Night Lighting",
       "Baroque Building Facades",
-      "Square at Twilight"
+      "Square at Twilight",
+      "Central Monument of the Square",
+      "In Front of Catholic Cathedral",
+      "Baroque Palace Facade",
+      "Square Circular Pathway",
+      "Sunset Viewing Point",
+      "Square Lawn and Street Lamps",
+      "Twin Churches Distant View",
+      "Square Panorama at Dusk"
     ],
     "viewAll": "View on Google Maps"
   },
